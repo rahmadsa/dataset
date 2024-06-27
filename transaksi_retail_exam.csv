@@ -35,6 +35,10 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 13-04-2020,Item-14,Teh Celup Melati,4,7800
 13-04-2020,Item-13,Pisau Cukur,1,6500
 13-04-2020,Item-14,Teh Celup Melati,4,7800
+13-04-2020,Item-14,Teh Celup Melati,5,7800
+13-04-2020,Item-14,Teh Celup Melati,10,7800
+13-04-2020,Item-14,Teh Celup Melati,7,7800
+13-04-2020,Item-14,Teh Celup Melati,5,7800
 13-04-2020,Item-11,Sabun Cuci Piring,2,14000
 14-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
 13-04-2020,Item-11,Sabun Cuci Piring,2,14000
@@ -315,6 +319,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 27-04-2020,Item-20,Pampers Bayi Size M,3,41000
 27-04-2020,Item-20,Pampers Bayi Size M,1,41000
 28-04-2020,Item-20,Pampers Bayi Size M,3,41000
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,2,2600
+12-04-2020,Item-05,Mi Goreng Instant,2,2600
+13-04-2020,Item-05,Mi Goreng Instant,1,2600
+14-04-2020,Item-05,Mi Goreng Instant,3,2600
+15-04-2020,Item-05,Mi Goreng Instant,1,2600
+16-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 20-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500
 20-04-2020,Item-14,Teh Celup Melati,4,7800
 20-04-2020,Item-17,Obat Batuk,3,5000
@@ -1472,6 +1484,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 10-05-2020,Item-21,Shampoo Sachet,4,1000
 10-05-2020,Item-21,Shampoo Sachet,2,1000
 10-05-2020,Item-21,Shampoo Sachet,4,1000
+10-05-2020,Item-05,Mi Goreng Instant,2,2600
+10-05-2020,Item-05,Mi Goreng Instant,2,2600
+11-05-2020,Item-05,Mi Goreng Instant,2,2600
+11-05-2020,Item-05,Mi Goreng Instant,1,2600
+11-05-2020,Item-05,Mi Goreng Instant,3,2600
+11-05-2020,Item-05,Mi Goreng Instant,1,2600
+11-05-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 10-05-2020,Item-21,Shampoo Sachet,2,1000
 11-05-2020,Item-21,Shampoo Sachet,4,1000
 11-05-2020,Item-21,Shampoo Sachet,4,1000
@@ -2729,6 +2749,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 25-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000
 25-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000
 25-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,3,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 26-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000
 26-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000
 27-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000
@@ -3745,6 +3773,18 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 30-04-2020,Item-27,Bedak Bayi,9,25000
 01-05-2020,Item-27,Bedak Bayi,19,25000
 01-05-2020,Item-27,Bedak Bayi,11,25000
+25-06-2020,Item-12,Beras Pulen 5 kg,3,63000
+24-06-2020,Item-12,Beras Pulen 5 kg,4,63000
+23-06-2020,Item-12,Beras Pulen 5 kg,3,63000
+22-06-2020,Item-12,Beras Pulen 5 kg,4,63000
+21-06-2020,Item-12,Beras Pulen 5 kg,3,63000
+26-06-2020,Item-12,Beras Pulen 5 kg,4,63000
+27-06-2020,Item-12,Beras Pulen 5 kg,3,63000
+28-06-2020,Item-12,Beras Pulen 5 kg,4,63000
+29-06-2020,Item-12,Beras Pulen 5 kg,3,63000
+30-06-2020,Item-12,Beras Pulen 5 kg,4,63000
+19-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+18-04-2020,Item-12,Beras Pulen 5 kg,4,63000
 03-05-2020,Item-27,Bedak Bayi,8,25000
 03-05-2020,Item-27,Bedak Bayi,15,25000
 05-05-2020,Item-27,Bedak Bayi,9,25000
@@ -4653,6 +4693,11 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 30-04-2020,Item-30,Kosmetik Wanita,1,8000
 30-04-2020,Item-30,Kosmetik Wanita,4,8000
 01-05-2020,Item-30,Kosmetik Wanita,3,8000
+13-05-2020,Item-14,Teh Celup Melati,4,7800
+13-05-2020,Item-14,Teh Celup Melati,5,7800
+13-05-2020,Item-14,Teh Celup Melati,10,7800
+13-05-2020,Item-14,Teh Celup Melati,7,7800
+13-04-2020,Item-14,Teh Celup Melati,5,7800
 01-05-2020,Item-30,Kosmetik Wanita,15,8000
 01-05-2020,Item-30,Kosmetik Wanita,20,8000
 01-05-2020,Item-30,Kosmetik Wanita,15,8000
@@ -5450,6 +5495,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 02-05-2020,Item-32,Biscuit,17,10000
 02-05-2020,Item-32,Biscuit,9,10000
 02-05-2020,Item-32,Biscuit,8,10000
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,3,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 02-05-2020,Item-32,Biscuit,18,10000
 03-05-2020,Item-32,Biscuit,11,10000
 03-05-2020,Item-32,Biscuit,2,10000
@@ -5505,6 +5558,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 24-04-2020,Item-32,Biscuit,16,10000
 24-04-2020,Item-32,Biscuit,13,10000
 24-04-2020,Item-32,Biscuit,12,10000
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,3,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 30-04-2020,Item-32,Biscuit,18,10000
 30-04-2020,Item-32,Biscuit,13,10000
 01-05-2020,Item-32,Biscuit,1,10000
@@ -5593,6 +5654,11 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 19-04-2020,Item-26,Susu Bubuk 195g,7,45000
 15-05-2020,Item-33,Es Cream,9,5000
 15-05-2020,Item-33,Es Cream,12,5000
+13-06-2020,Item-14,Teh Celup Melati,4,7800
+13-06-2020,Item-14,Teh Celup Melati,5,7800
+13-06-2020,Item-14,Teh Celup Melati,10,7800
+13-06-2020,Item-14,Teh Celup Melati,7,7800
+13-06-2020,Item-14,Teh Celup Melati,5,7800
 15-05-2020,Item-33,Es Cream,12,5000
 15-05-2020,Item-33,Es Cream,12,5000
 15-05-2020,Item-33,Es Cream,19,5000
@@ -5674,6 +5740,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 04-06-2020,Item-33,Es Cream,8,5000
 05-06-2020,Item-33,Es Cream,5,5000
 05-06-2020,Item-33,Es Cream,12,5000
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,3,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 05-06-2020,Item-33,Es Cream,12,5000
 06-06-2020,Item-33,Es Cream,11,5000
 06-06-2020,Item-33,Es Cream,2,5000
@@ -5683,6 +5757,11 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 08-06-2020,Item-33,Es Cream,6,5000
 11-06-2020,Item-33,Es Cream,7,5000
 11-06-2020,Item-33,Es Cream,13,5000
+11-07-2020,Item-14,Teh Celup Melati,4,7800
+12-07-2020,Item-14,Teh Celup Melati,5,7800
+13-07-2020,Item-14,Teh Celup Melati,10,7800
+14-07-2020,Item-14,Teh Celup Melati,7,7800
+15-07-2020,Item-14,Teh Celup Melati,5,7800
 16-06-2020,Item-33,Es Cream,7,5000
 21-06-2020,Item-33,Es Cream,15,5000
 10-04-2020,Item-11,Sabun Cuci Piring,2,14000
@@ -5809,6 +5888,18 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 29-04-2020,Item-34,Sirup Botol,16,12000
 29-04-2020,Item-34,Sirup Botol,4,12000
 30-04-2020,Item-34,Sirup Botol,5,12000
+25-05-2020,Item-12,Beras Pulen 5 kg,3,63000
+24-05-2020,Item-12,Beras Pulen 5 kg,4,63000
+23-05-2020,Item-12,Beras Pulen 5 kg,3,63000
+22-05-2020,Item-12,Beras Pulen 5 kg,4,63000
+21-05-2020,Item-12,Beras Pulen 5 kg,3,63000
+26-05-2020,Item-12,Beras Pulen 5 kg,4,63000
+27-05-2020,Item-12,Beras Pulen 5 kg,3,63000
+28-05-2020,Item-12,Beras Pulen 5 kg,4,63000
+29-05-2020,Item-12,Beras Pulen 5 kg,3,63000
+30-05-2020,Item-12,Beras Pulen 5 kg,4,63000
+19-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+18-04-2020,Item-12,Beras Pulen 5 kg,4,63000
 30-04-2020,Item-34,Sirup Botol,13,12000
 30-04-2020,Item-34,Sirup Botol,6,12000
 30-04-2020,Item-34,Sirup Botol,11,12000
@@ -5853,6 +5944,14 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 25-05-2020,Item-34,Sirup Botol,14,12000
 26-05-2020,Item-34,Sirup Botol,8,12000
 27-05-2020,Item-34,Sirup Botol,20,12000
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+10-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,2,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,3,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,1,2600
+11-04-2020,Item-05,Mi Goreng Instant,4,2600
 27-05-2020,Item-34,Sirup Botol,18,12000
 29-05-2020,Item-34,Sirup Botol,15,12000
 29-05-2020,Item-34,Sirup Botol,17,12000
@@ -6026,6 +6125,18 @@ tanggal,kodeproduk,namaproduk,jumlah,harga
 12-05-2020,Item-34,Sirup Botol,10,12000
 14-05-2020,Item-34,Sirup Botol,7,12000
 15-05-2020,Item-34,Sirup Botol,14,12000
+25-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+24-04-2020,Item-12,Beras Pulen 5 kg,4,63000
+23-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+22-04-2020,Item-12,Beras Pulen 5 kg,4,63000
+21-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+26-04-2020,Item-12,Beras Pulen 5 kg,4,63000
+27-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+28-04-2020,Item-12,Beras Pulen 5 kg,4,63000
+29-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+30-04-2020,Item-12,Beras Pulen 5 kg,4,63000
+19-04-2020,Item-12,Beras Pulen 5 kg,3,63000
+18-04-2020,Item-12,Beras Pulen 5 kg,4,63000
 15-05-2020,Item-34,Sirup Botol,14,12000
 16-05-2020,Item-34,Sirup Botol,6,12000
 17-05-2020,Item-34,Sirup Botol,14,12000
