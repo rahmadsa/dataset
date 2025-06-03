@@ -1,9 +1,9 @@
-, kode_transaksi , kode_pelanggan , no_urut , kode_produk , nama_produk                   , qty  , harga  , total  ,
-, tr-001         , labcust07    ,       1 , prod-01     , Kotak Pensil Lab            ,    5 ,  62500 , 312500 ,
-, tr-001         , labcust07    ,       2 , prod-03     , Flash disk Lab 32 GB        ,    1 , 100000 , 100000 ,
-, tr-001         , labcust07    ,       3 , prod-09     , Buku Planner Agenda Lab     ,    3 ,  92000 , 276000 ,
-, tr-001         , labcust07    ,       4 , prod-04     , Flashdisk Lab 32 GB         ,    3 ,  40000 , 120000 ,
-, tr-002         , labcust01    ,       1 , prod-03     , Gift Voucher Lab 100rb      ,    2 , 100000 , 200000 ,
-, tr-002         , labcust01    ,       2 , prod-10     , Sticky Notes Lab 500 sheets ,    4 ,  55000 , 220000 ,
-, tr-002         , labcust01    ,       3 , prod-07     , Tas Travel Organizer Lab    ,    1 ,  48000 ,  48000 ,
-, tr-003         , labcust03    ,       1 , prod-02     , Flashdisk Lab 64 GB         ,    2 ,  55000 , 110000 ,
+kode_transaksi , kode_pelanggan , no_urut , kode_produk , nama_produk                   , qty  , harga  , total
+tr-001         , labcust07    ,       1 , prod-01     , Kotak Pensil Lab            ,    5 ,  62500 , 312500
+tr-001         , labcust07    ,       2 , prod-03     , Flash disk Lab 32 GB        ,    1 , 100000 , 100000
+tr-001         , labcust07    ,       3 , prod-09     , Buku Planner Agenda Lab     ,    3 ,  92000 , 276000
+tr-001         , labcust07    ,       4 , prod-04     , Flashdisk Lab 32 GB         ,    3 ,  40000 , 120000
+tr-002         , labcust01    ,       1 , prod-03     , Gift Voucher Lab 100rb      ,    2 , 100000 , 200000
+tr-002         , labcust01    ,       2 , prod-10     , Sticky Notes Lab 500 sheets ,    4 ,  55000 , 220000
+tr-002         , labcust01    ,       3 , prod-07     , Tas Travel Organizer Lab    ,    1 ,  48000 ,  48000
+tr-003         , labcust03    ,       1 , prod-02     , Flashdisk Lab 64 GB         ,    2 ,  55000 , 110000
