@@ -1,0 +1,8 @@
+, kode_transaksi , kode_pelanggan , no_urut , kode_produk , nama_produk                   , qty  , harga  , total   ,
+, tr-004         , labcust03    ,       1 , prod-10     , Sticky Notes Lab 500 sheets ,    5 ,  55000 ,  275000 ,
+, tr-004         , labcust03    ,       2 , prod-04     , Flashdisk Lab 32 GB         ,    4 ,  40000 ,  160000 ,
+, tr-005         , labcust05    ,       1 , prod-09     , Buku Planner Agenda Lab     ,    3 ,  92000 ,  276000 ,
+, tr-005         , labcust05    ,       2 , prod-01     , Kotak Pensil Lab            ,    1 ,  62500 ,   62500 ,
+, tr-005         , labcust05    ,       3 , prod-04     , Flashdisk Lab 32 GB         ,    2 ,  40000 ,   80000 ,
+, tr-006         , labcust02    ,       1 , prod-05     , Gift Voucher Lab 250rb      ,    4 , 250000 , 1000000 ,
+, tr-006         , labcust02    ,       2 , prod-08     , Gantungan Kunci Lab         ,    2 ,  15800 ,   31600 ,

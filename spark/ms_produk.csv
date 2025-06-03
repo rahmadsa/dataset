@@ -1,2 +1,12 @@
-no_urut, kode_produk, nama_produk, harga
-
+ms_produk
+no_urut,kode_produk, nama_produk,harga  ,
+1 , prod-01     , Kotak Pensil Lab                 ,  62500 ,
+2 , prod-02     , Flashdisk Lab 64 GB              ,  55000 ,
+3 , prod-03     , Gift Voucher Lab 100rb           , 100000 ,
+4 , prod-04     , Flashdisk Lab 32 GB              ,  40000 ,
+5 , prod-05     , Gift Voucher Lab 250rb           , 250000 ,
+6 , prod-06     , Pulpen Multifunction + Laser Lab ,  92500 ,
+7 , prod-07     , Tas Travel Organizer Lab         ,  48000 ,
+8 , prod-08     , Gantungan Kunci Lab              ,  15800 ,
+9 , prod-09     , Buku Planner Agenda Lab          ,  92000 ,
+10 , prod-10     , Sticky Notes Lab 500 sheets      ,  55000 ,
