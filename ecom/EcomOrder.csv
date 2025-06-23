@@ -1,0 +1,2 @@
+order_id, branch_id, quantity, payment_type, product_id, price, seller_id, freight_value, customer_id, order_status, purchase_date, product_category_name, product_weight_gram
+
